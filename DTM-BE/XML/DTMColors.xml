@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DTM -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_V_RED</Type>
+			<Red>0.31</Red>
+			<Green>0.00</Green>
+			<Blue>0.00</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_V_WHITE</Type>
+			<Red>0.90</Red>
+			<Green>0.90</Green>
+			<Blue>0.90</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_V_RED_TEXT</Type>
+			<Red>0.56</Red>
+			<Green>0.00</Green>
+			<Blue>0.00</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_VALYRIA</Type>
+			<PrimaryColor>COLOR_PLAYER_V_WHITE</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_V_RED</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

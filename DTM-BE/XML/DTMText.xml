@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DTM -->
+<GameData>
+	<Language_en_US>
+			<!-- Vayrian Sponsor Identifiers -->
+		<Row Tag="TXT_KEY_CIV_VALYRIA_DESC">
+			<Text>Valyrian Extrasolar Colonial Initiative</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VALYRIA_SHORT_DESC">
+			<Text>Valyrian ECI</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VALYRIA_ADJECTIVE">
+			<Text>Valyrian</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_ANQUIETAS">
+			<Text>Anquietas</Text>
+		</Row>
+			<!-- Valyrian Trait -->
+		<Row Tag="TXT_KEY_TRAIT_VALYRIAN_PERSEVERANCE">
+			<Text>+10% [ICON_FOOD] Food in growing Cities when [ICON_HEALTH_1] Healthy and +25% Worker speed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VALYRIAN_PERSEVERANCE_SHORT">
+			<Text>Valyrian Perseverance</Text>
+		</Row>
+			<!-- Anquietas Dialogue -->
+		<Row Tag="TXT_KEY_LEADER_ANQUIETAS_FIRSTGREETING_1">
+			<Text>I represent the Freehold's interests beyond earth, challenge us at your own peril.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANQUIETAS_FIRSTGREETING_2">
+			<Text>I am Commander Anquietas of the Valyrian Colonial Expedition, may our dealings be fair and forthright.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANQUIETAS_FIRSTGREETING_3">
+			<Text>On behalf of all Valyria, welcome! May we be friends and not foes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANQUIETAS_DEFEATED_1">
+			<Text>You may have defeated me but be forewarned, the Freehold will send another expedition!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANQUIETAS_DEFEATED_2">
+			<Text>You don't know what you've done!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANQUIETAS_DEFEATED_3">
+			<Text>Centuries of work, undone!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANQUIETAS_GREETING_POLITE_HELLO_1">
+			<Text>Greetings, Friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANQUIETAS_GREETING_NEUTRAL_HELLO_1">
+			<Text>I wonder, why have you come?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANQUIETAS_GREETING_HOSTILE_HELLO_1">
+			<Text>Speak quickly, I have little time for your games.</Text>
+		</Row>
+			<!-- Stargate Civilopedia Entries -->
+		<Row Tag="TXT_KEY_CIV_INTRO_VALYRIA_TEXT_0">
+			<Text>&lt;&lt; Valyrian Colonial Expedition &gt;&gt;[NEWLINE]&lt;&lt; Personal Log, Anquietas &gt;&gt;[NEWLINE][NEWLINE]VCE.1453.11[NEWLINE][NEWLINE]Valyrian Colonial Expansion Beyond Earth: Placeholder[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_INTRO_VALYRIA_TEXT_1">
+			<Text>&lt;&lt; Valyrian Colonial Expedition &gt;&gt;[NEWLINE]&lt;&lt; Personal Log, Anquietas &gt;&gt;[NEWLINE][NEWLINE]VCE.1843.45[NEWLINE][NEWLINE]Valyrian Colonial Expansion Beyond Earth: Placeholder[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_INTRO_VALYRIA_TEXT_2">
+			<Text>&lt;&lt; Valyrian Colonial Expedition &gt;&gt;[NEWLINE]&lt;&lt; Personal Log, Anquietas &gt;&gt;[NEWLINE][NEWLINE]VCE.2248.23[NEWLINE][NEWLINE]Valyrian Colonial Expansion Beyond Earth: Placeholder[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_INTRO_VALYRIA_TEXT_3">
+			<Text>&lt;&lt; Valyrian Colonial Expedition &gt;&gt;[NEWLINE]&lt;&lt; Personal Log, Anquietas &gt;&gt;[NEWLINE][NEWLINE]VCE.4465.15[NEWLINE][NEWLINE]Valyrian Colonial Expansion Beyond Earth: Placeholder[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_INTRO_VALYRIA_TEXT_4">
+			<Text>&lt;&lt; Valyrian Colonial Expedition &gt;&gt;[NEWLINE]&lt;&lt; Personal Log, Anquietas &gt;&gt;[NEWLINE][NEWLINE]VCE.2054.58[NEWLINE][NEWLINE]Valyrian Colonial Expansion Beyond Earth: Placeholder[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_INTRO_VALYRIA_TEXT_5">
+			<Text>&lt;&lt; Valyrian Colonial Expedition &gt;&gt;[NEWLINE]&lt;&lt; Personal Log, Anquietas &gt;&gt;[NEWLINE][NEWLINE]VCE.3315.82[NEWLINE][NEWLINE]Valyrian Colonial Expansion Beyond Earth: Placeholder[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VALYRIA_HEADING_1">
+			<Text>Heading 1 Placeholder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VALYRIA_HEADING_2">
+			<Text>Heading 2 Placeholder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VALYRIA_HEADING_3">
+			<Text>Heading 3 Placeholder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VALYRIA_HEADING_4">
+			<Text>Heading 4 Placeholder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VALYRIA_TEXT_1">
+			<Text>Text 1 Placeholder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VALYRIA_TEXT_2">
+			<Text>Text 2 Placeholder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VALYRIA_TEXT_3">
+			<Text>Text 3 Placeholder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VALYRIA_TEXT_4">
+			<Text>Text 4 Placeholder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VALYRIA_TITLE">
+			<Text>Valyrian Freehold: VCE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ANQUIETAS_NAME">
+			<Text>Anquietas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ANQUIETAS_SUBTITLE">
+			<Text>Commander of the Valyrian Colonial Expedition</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ANQUIETAS_HEADING_1">
+			<Text>Heading 1 Placeholder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ANQUIETAS_HEADING_2">
+			<Text>Heading 2 Placeholder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ANQUIETAS_HEADING_3">
+			<Text>Heading 3 Placeholder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ANQUIETAS_HEADING_4">
+			<Text>Heading 4 Placeholder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ANQUIETAS_TEXT_1">
+			<Text>Text 1 Placeholder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ANQUIETAS_TEXT_2">
+			<Text>Text 2 Placeholder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ANQUIETAS_TEXT_3">
+			<Text>Text 3 Placeholder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ANQUIETAS_TEXT_4">
+			<Text>Text 4 Placeholder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ANQUIETAS_TITLES_1">
+			<Text>Freeholder Commander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ANQUIETAS_TITLES_2">
+			<Text>"The Visionary"</Text>
+		</Row>
+			<!-- Valyrian Civilization City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_VALYRIA_1">
+			<Text>New Valyria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALYRIA_2">
+			<Text>Elyria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALYRIA_3">
+			<Text>Volaena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALYRIA_4">
+			<Text>Volon Therys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALYRIA_5">
+			<Text>Chroyane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALYRIA_6">
+			<Text>Mantarys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALYRIA_7">
+			<Text>Selhorys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALYRIA_8">
+			<Text>Velos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALYRIA_9">
+			<Text>Ar Noy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALYRIA_10">
+			<Text>Andalos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALYRIA_11">
+			<Text>Oros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALYRIA_12">
+			<Text>Bhorash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALYRIA_13">
+			<Text>Norvos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALYRIA_14">
+			<Text>Qohor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALYRIA_15">
+			<Text>Sar Mell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALYRIA_16">
+			<Text>Ghoyan Drohe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALYRIA_17">
+			<Text>Volantis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALYRIA_18">
+			<Text>Braavos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALYRIA_19">
+			<Text>Pentos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALYRIA_20">
+			<Text>Qarth</Text>
+		</Row>
+			<!-- Valyrian Civilization Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_VALYRIA_0">
+			<Text>Vaekar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VALYRIA_1">
+			<Text>Rhaenyra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VALYRIA_2">
+			<Text>Alysanne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VALYRIA_3">
+			<Text>Maekar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VALYRIA_4">
+			<Text>Vaeron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VALYRIA_5">
+			<Text>Rhaegel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VALYRIA_6">
+			<Text>Aegor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VALYRIA_7">
+			<Text>Syaella</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VALYRIA_8">
+			<Text>Maera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VALYRIA_9">
+			<Text>Elaena</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
