@@ -90,6 +90,11 @@
     <File md5="B21F343A6B30E305CD09FFE6FD4FF861" import="1">Art/IconAtlas/colorweb_wonderatlas360.dds</File>
     <File md5="E13886C68703C393733DBAD7CCC59567" import="1">Art/INTRO1.dds</File>
     <File md5="E82A04FC9FC9DFA991E4B9D916BC28AC" import="1">Art/trans.bmp</File>
+    <File md5="BDFF21491AD4B382A3F3FB97E9799485" import="0">UI/InfoClock.lua</File>
+    <File md5="E070164CC6B39676EA26D7C9A8404327" import="0">UI/InfoClock.xml</File>
+    <File md5="FFE7506F217DE81985E48F2AB2A17B4E" import="1">UI/InfoClock_InfoBarHook.lua</File>
+    <File md5="033CF1D15DDFC261B246376B386D1E3B" import="0">UI/InGame/InfoBar.lua</File>
+    <File md5="996AF4DC68853116885B8E50A5BDD67F" import="0">UI/InGame/InfoBar.xml</File>
     <File md5="CEDC8A2BDB090F9A1029B94801FD4714" import="1">UI/InGame/TechTree/TechButtonInclude.lua</File>
     <File md5="20B5D54F478089587AF8027764FD6949" import="1">XML/DTMCiv.xml</File>
     <File md5="9C2AC622DA5860C647546666EFCAF326" import="1">XML/DTMColors.xml</File>
@@ -97,6 +102,7 @@
     <File md5="4701E4E905A8FF10B6B540F50496C595" import="1">XML/DTMLeader.xml</File>
     <File md5="433F905D4EB791820F580D85A317A984" import="1">XML/DTMText.xml</File>
     <File md5="376B271D5450EBB269999EEE72407CFD" import="1">XML/DTMTraits.xml</File>
+    <File md5="5D54C10C1CD39271738E7E79F37B0847" import="0">XML/UIInfoClock.xml</File>
   </Files>
   <Actions>
     <OnModActivated>
@@ -106,6 +112,24 @@
       <UpdateDatabase>XML/DTMLeader.xml</UpdateDatabase>
       <UpdateDatabase>XML/DTMText.xml</UpdateDatabase>
       <UpdateDatabase>XML/DTMTraits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/UIInfoClock.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="UI/InfoClock.xml">
+      <Name>Clock Info</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="UI/InGame/InfoBar.xml">
+      <Name>Modular Info Bar</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InfoBarAddin" file="UI/InfoClock_InfoBarHook.lua">
+      <Name>Clock Info Bar Addin</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
 </Mod>

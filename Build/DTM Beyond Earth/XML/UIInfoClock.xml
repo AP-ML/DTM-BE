@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CLOCK_MODE_12">
+			<Text>%I:%M</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CLOCK_MODE_12_AM">
+			<Text>%I:%M %p</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CLOCK_MODE_24">
+			<Text>%H:%M</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CLOCK_SET_OPTIONS">
+			<Text>Click to set options</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CLOCK_OPTIONS">
+			<Text>Settings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CLOCK_OPTIONS_MODE_24HOUR">
+			<Text>24-hour clock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CLOCK_OPTIONS_MODE_AMPM">
+			<Text>Include am/pm</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
