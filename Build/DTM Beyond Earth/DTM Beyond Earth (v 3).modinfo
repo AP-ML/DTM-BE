@@ -115,6 +115,39 @@
     <File md5="033CF1D15DDFC261B246376B386D1E3B" import="0">UI/InGame/InfoBar.lua</File>
     <File md5="996AF4DC68853116885B8E50A5BDD67F" import="0">UI/InGame/InfoBar.xml</File>
     <File md5="CEDC8A2BDB090F9A1029B94801FD4714" import="1">UI/InGame/TechTree/TechButtonInclude.lua</File>
+    <File md5="1947154AF736C12050A433B747A49FE3" import="0">UI/UI Tweaks/Mod_Files/Colors.sql</File>
+    <File md5="4EA7BA53FD18A4802B6C60734558E38D" import="0">UI/UI Tweaks/Mod_Files/GlobalDefines.sql</File>
+    <File md5="84922B8886BEE05632ECCB0D9B0B3D7F" import="0">UI/UI Tweaks/Mod_Files/TechFilters.xml</File>
+    <File md5="2F022A1AC2207B3B49DFCD7732DCED41" import="0">UI/UI Tweaks/Mod_Files/Text.sql</File>
+    <File md5="134225CDDC07D1BA6E97A8C431A6D213" import="1">UI/UI Tweaks/UIT_IphStich/Core/ActionInfoPanel.lua</File>
+    <File md5="058AD6995087898F31EC8A6B03F08D13" import="1">UI/UI Tweaks/UIT_IphStich/Core/ChooseInternationalTradeRoutePopup.lua</File>
+    <File md5="026C2592FEEE1AC7B5E235A72D6DED55" import="1">UI/UI Tweaks/UIT_IphStich/Core/ChooseInternationalTradeRoutePopup.xml</File>
+    <File md5="EA9F0001797E0517674BB4A2B1181428" import="1">UI/UI Tweaks/UIT_IphStich/Core/CityBannerManager.xml</File>
+    <File md5="EA86AD37B39AD83856894EA47C1AA0CB" import="1">UI/UI Tweaks/UIT_IphStich/Core/CityView.lua</File>
+    <File md5="9356D99DCE4447E9A8F286997EDF662F" import="1">UI/UI Tweaks/UIT_IphStich/Core/CityView.xml</File>
+    <File md5="E2960B0654E493981D46DB44AF902191" import="1">UI/UI Tweaks/UIT_IphStich/Core/CivBEColors.xml</File>
+    <File md5="5FEA0D2DE9AC89772FB71EA92A5C1B0F" import="1">UI/UI Tweaks/UIT_IphStich/Core/CIVTechFilters.xml</File>
+    <File md5="406273022E16AA5DC0D5B7D0C8055FA8" import="1">UI/UI Tweaks/UIT_IphStich/Core/CommonBehaviors.lua</File>
+    <File md5="64D0DB174522B408BC903D522C121AD0" import="1">UI/UI Tweaks/UIT_IphStich/Core/CultureBorders.xml</File>
+    <File md5="48AA10AC4E92255A399FCDA9F3E4B684" import="1">UI/UI Tweaks/UIT_IphStich/Core/DiploRelationships.lua</File>
+    <File md5="B813019A4D372992B1F9D76130BF308C" import="1">UI/UI Tweaks/UIT_IphStich/Core/DiploRelationships.xml</File>
+    <File md5="2E04DEE668CCF90A1A69BF27F21A25A1" import="1">UI/UI Tweaks/UIT_IphStich/Core/GlobalDefines.xml</File>
+    <File md5="D6745FA3523D5B7408AF535649E693EF" import="1">UI/UI Tweaks/UIT_IphStich/Core/InGame.lua</File>
+    <File md5="7354998D14844190978860AD6ADFCA7D" import="1">UI/UI Tweaks/UIT_IphStich/Core/LeaderHeadRoot.xml</File>
+    <File md5="98EE5585DE5F6466C3ECEDE080985596" import="1">UI/UI Tweaks/UIT_IphStich/Core/MiniMapPanel.lua</File>
+    <File md5="E2622B527CB8909D697CBB4B97723ABA" import="1">UI/UI Tweaks/UIT_IphStich/Core/MiniMapPanel.xml</File>
+    <File md5="E824EA20925B27EC0F3C780134FF8F17" import="1">UI/UI Tweaks/UIT_IphStich/Core/NotificationPanel.lua</File>
+    <File md5="5DFBC82FF1587112845E42E444036532" import="1">UI/UI Tweaks/UIT_IphStich/Core/ProductionPopup.lua</File>
+    <File md5="D768E61A94AEF882EE57DEE935DDF67E" import="1">UI/UI Tweaks/UIT_IphStich/Core/TechFilterFunctions.lua</File>
+    <File md5="F5CAFD6D55EEB6A4D59294A4519351AD" import="1">UI/UI Tweaks/UIT_IphStich/Core/TechTree.lua</File>
+    <File md5="C5692AA2CF22590D250709A3420933D9" import="1">UI/UI Tweaks/UIT_IphStich/Core/TechTree.xml</File>
+    <File md5="350EDAD6F1914021FCCEF8048F278FCA" import="1">UI/UI Tweaks/UIT_IphStich/Core/TopPanel.lua</File>
+    <File md5="375DD81E21D4C1D984314671DF036E7A" import="1">UI/UI Tweaks/UIT_IphStich/Core/TradeRouteOverview.lua</File>
+    <File md5="2BDFFDF4514B7DEEDCA96F78EA8DD82C" import="1">UI/UI Tweaks/UIT_IphStich/Core/TradeRouteOverview.xml</File>
+    <File md5="0587DB95CF8FDB20EA19FD048B3179F7" import="1">UI/UI Tweaks/UIT_IphStich/Core/UnitFlagManager.lua</File>
+    <File md5="2D6C3142E8E80D8610E2C93479775E6F" import="1">UI/UI Tweaks/UIT_IphStich/Core/UnitPanel.lua</File>
+    <File md5="311F4B31653990D142AA17785083EE88" import="1">UI/UI Tweaks/UIT_IphStich/Core/YieldIconManager.lua</File>
+    <File md5="9889D707431210811831B3D7FCAA4F6E" import="0">UI/UI Tweaks/UIT_IphStich/UIT_0.CivBePkg</File>
     <File md5="20B5D54F478089587AF8027764FD6949" import="1">XML/DTMCiv.xml</File>
     <File md5="9C2AC622DA5860C647546666EFCAF326" import="1">XML/DTMColors.xml</File>
     <File md5="90CF23176AF8B692CB8CC0D7046F33C5" import="1">XML/DTMIconAtlases.xml</File>
@@ -141,6 +174,10 @@
       <UpdateDatabase>XML/DTMTraits.xml</UpdateDatabase>
       <UpdateDatabase>XML/UIInfoClock.xml</UpdateDatabase>
       <UpdateDatabase>XML/InfoAddict/InfoAddictText_EN.xml</UpdateDatabase>
+      <UpdateDatabase>UI/UI Tweaks/Mod_Files/Colors.sql</UpdateDatabase>
+      <UpdateDatabase>UI/UI Tweaks/Mod_Files/GlobalDefines.sql</UpdateDatabase>
+      <UpdateDatabase>UI/UI Tweaks/Mod_Files/TechFilters.xml</UpdateDatabase>
+      <UpdateDatabase>UI/UI Tweaks/Mod_Files/Text.sql</UpdateDatabase>
     </OnModActivated>
   </Actions>
   <EntryPoints>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CivBEPackage>
+	<GUID>{02eedc5b-6146-4f2b-88eb-4d0661faffdc}</GUID>
+	<Version>1</Version>
+	<Priority>100</Priority>
+	<PTags>
+		<Tag>Version</Tag>
+	</PTags>
+	<Name>
+		<Value language="en_US">User Interface Tweaks</Value>
+	</Name>
+	<Description>
+		<Value language="en_US">User Interface Tweaks by IphStich</Value>
+	</Description>
+
+	<GameData>CivBEColors.xml</GameData>
+	<UISkin name="BaseGame" set="BaseGame" platform="Common">
+		<Skin>
+			<Directory>Core</Directory>
+		</Skin>
+	</UISkin>
+</CivBEPackage>
