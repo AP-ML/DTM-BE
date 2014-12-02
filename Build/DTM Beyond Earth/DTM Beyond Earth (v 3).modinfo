@@ -162,6 +162,7 @@
     <File md5="324CF6E1C4866A0C7CFA20EE4D606664" import="1">XML/InfoAddict/InfoAddictOptions.xml</File>
     <File md5="6FECCE6B76F7360FEDF3D914CAA6B6D2" import="1">XML/InfoAddict/InfoAddictScreen.xml</File>
     <File md5="133769294605D4C767B4A1FB7DEF4C35" import="1">XML/InfoAddict/InfoAddictText_EN.xml</File>
+    <File md5="794A3E132DBC51CDF2A0895CE7AB72FA" import="0">XML/LAR_GlobalAIDefines.xml</File>
     <File md5="71FF6D85D2F066EBBEC27DB98D51F359" import="1">XML/SiegeRangePlus.xml</File>
     <File md5="5D54C10C1CD39271738E7E79F37B0847" import="0">XML/UIInfoClock.xml</File>
   </Files>
@@ -180,6 +181,7 @@
       <UpdateDatabase>UI/UI Tweaks/Mod_Files/TechFilters.xml</UpdateDatabase>
       <UpdateDatabase>UI/UI Tweaks/Mod_Files/Text.sql</UpdateDatabase>
       <UpdateDatabase>XML/SiegeRangePlus.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LAR_GlobalAIDefines.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
   <EntryPoints>

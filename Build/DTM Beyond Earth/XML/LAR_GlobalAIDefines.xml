@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+
+	<Defines>
+		<Update>
+			<Where Name="FLAVOR_RANDOMIZATION_RANGE"/>
+			<Set Value="5"/>
+			<!-- Default Value = 2 -->
+		</Update>
+	</Defines>
+  
+</GameData>

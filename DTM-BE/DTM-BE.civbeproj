@@ -87,6 +87,11 @@
         <Type>UpdateDatabase</Type>
         <FileName>XML/SiegeRangePlus.xml</FileName>
       </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/LAR_GlobalAIDefines.xml</FileName>
+      </Action>
     </ModActions>
     <ModContent>
       <Content>
@@ -691,6 +696,10 @@
     <Content Include="XML\InfoAddict\InfoAddictText_EN.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\LAR_GlobalAIDefines.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
     <Content Include="XML\SiegeRangePlus.xml">
       <SubType>Lua</SubType>
