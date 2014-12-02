@@ -94,6 +94,110 @@
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
+    <Content Include="Art\Biome Retexture\Visually Distinctive Terrains - Lush Biome %28v 1%29\charlie_desert_d.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visually Distinctive Terrains - Lush Biome %28v 1%29\charlie_grassland_d.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visually Distinctive Terrains - Lush Biome %28v 1%29\charlie_marsh_d.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visually Distinctive Terrains - Lush Biome %28v 1%29\charlie_mountain_base_d.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visually Distinctive Terrains - Lush Biome %28v 1%29\charlie_mountain_top_d.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visually Distinctive Terrains - Lush Biome %28v 1%29\charlie_plain_d.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visually Distinctive Terrains - Lush Biome %28v 1%29\charlie_tundra_d.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visually Distinctive Terrains - Lush Biome %28v 1%29\forest_charlie.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visually Distinctive Terrains - Lush Biome %28v 1%29\grassland_charlie.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visually Distinctive Terrains - Lush Biome %28v 1%29\jungle_charlie.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visualy Distinctive Terrains - Arid Biome %28v 2%29\alfa_desert_d.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visualy Distinctive Terrains - Arid Biome %28v 2%29\alfa_grassland.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visualy Distinctive Terrains - Arid Biome %28v 2%29\alfa_grassland_d.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visualy Distinctive Terrains - Arid Biome %28v 2%29\alfa_plain_d.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visualy Distinctive Terrains - Arid Biome %28v 2%29\forest_alfa.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visualy Distinctive Terrains - Fungal Biome %28v 1%29\bravo_desert_d.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visualy Distinctive Terrains - Fungal Biome %28v 1%29\bravo_grassland_d.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visualy Distinctive Terrains - Fungal Biome %28v 1%29\bravo_grassland_hills_d.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visualy Distinctive Terrains - Fungal Biome %28v 1%29\bravo_marsh_d.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visualy Distinctive Terrains - Fungal Biome %28v 1%29\bravo_mountain_base_d.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visualy Distinctive Terrains - Fungal Biome %28v 1%29\bravo_plain_d.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visualy Distinctive Terrains - Fungal Biome %28v 1%29\bravo_plain_hills_d.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visualy Distinctive Terrains - Fungal Biome %28v 1%29\bravo_plain_hills_y_d.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visualy Distinctive Terrains - Fungal Biome %28v 1%29\bravo_tundra_d.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visualy Distinctive Terrains - Fungal Biome %28v 1%29\forest_bravo.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\Biome Retexture\Visualy Distinctive Terrains - Fungal Biome %28v 1%29\grassland_bravo.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
     <Content Include="Art\NewAPIcon128.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
@@ -269,7 +373,11 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Art" />
+    <Folder Include="Art\Biome Retexture\Visually Distinctive Terrains - Lush Biome %28v 1%29\" />
+    <Folder Include="Art\Biome Retexture\Visualy Distinctive Terrains - Arid Biome %28v 2%29\" />
+    <Folder Include="Art\Biome Retexture\Visualy Distinctive Terrains - Fungal Biome %28v 1%29\" />
     <Folder Include="Art\IconAtlas" />
+    <Folder Include="Art\Biome Retexture" />
     <Folder Include="XML" />
     <Folder Include="UI" />
     <Folder Include="UI\InGame" />

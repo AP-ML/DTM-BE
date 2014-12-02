@@ -28,6 +28,32 @@
     <File md5="985F3A6284BB0F0A4AA5A0E0DF9A3F49" import="1">Art/APAlphaIcon45.ddsbak</File>
     <File md5="755C7DC32F5B6A29269590E094409E6A" import="1">Art/APAlphaIcon57.ddsbak</File>
     <File md5="940B1446CF6CF9F53EA9B1DD632D7144" import="1">Art/APAlphaIcon64.ddsbak</File>
+    <File md5="5B7E1B5F2AE9765CF3E08CA29478438B" import="1">Art/Biome Retexture/Visually Distinctive Terrains - Lush Biome (v 1)/charlie_desert_d.dds</File>
+    <File md5="5BA854E2A621D34316AC2DB07BEE4F89" import="1">Art/Biome Retexture/Visually Distinctive Terrains - Lush Biome (v 1)/charlie_grassland_d.dds</File>
+    <File md5="0CA10AD137D6B2DC72D46742330AEE8B" import="1">Art/Biome Retexture/Visually Distinctive Terrains - Lush Biome (v 1)/charlie_marsh_d.dds</File>
+    <File md5="6B9314AACF4DFB79B9BDCD17E6146CC8" import="1">Art/Biome Retexture/Visually Distinctive Terrains - Lush Biome (v 1)/charlie_mountain_base_d.dds</File>
+    <File md5="2835A1FC26003BD2D772129CB2C07F05" import="1">Art/Biome Retexture/Visually Distinctive Terrains - Lush Biome (v 1)/charlie_mountain_top_d.dds</File>
+    <File md5="672C796F0177C4C7CDD3E5AFFF7096F0" import="1">Art/Biome Retexture/Visually Distinctive Terrains - Lush Biome (v 1)/charlie_plain_d.dds</File>
+    <File md5="E1AD52DC3D3D988BACAEC6B754D5610C" import="1">Art/Biome Retexture/Visually Distinctive Terrains - Lush Biome (v 1)/charlie_tundra_d.dds</File>
+    <File md5="E173E5E94506FD6A77EEB1BC638AAF25" import="1">Art/Biome Retexture/Visually Distinctive Terrains - Lush Biome (v 1)/forest_charlie.dds</File>
+    <File md5="E241DAFC781F18A1A583C6D599BA941E" import="1">Art/Biome Retexture/Visually Distinctive Terrains - Lush Biome (v 1)/grassland_charlie.dds</File>
+    <File md5="45B6E9E2D1C170DB3422A9FBBD3175C0" import="1">Art/Biome Retexture/Visually Distinctive Terrains - Lush Biome (v 1)/jungle_charlie.dds</File>
+    <File md5="084DEF2E4C170CE9D203024861CF1F9D" import="1">Art/Biome Retexture/Visualy Distinctive Terrains - Arid Biome (v 2)/alfa_desert_d.dds</File>
+    <File md5="761A25ACB5775FEB77291D65D73A97F3" import="1">Art/Biome Retexture/Visualy Distinctive Terrains - Arid Biome (v 2)/alfa_grassland.dds</File>
+    <File md5="755DAE360C5DE0AF5F3F9F9B4A0FFB29" import="1">Art/Biome Retexture/Visualy Distinctive Terrains - Arid Biome (v 2)/alfa_grassland_d.dds</File>
+    <File md5="E4FB6764CBECB60426EFC712534346AB" import="1">Art/Biome Retexture/Visualy Distinctive Terrains - Arid Biome (v 2)/alfa_plain_d.dds</File>
+    <File md5="66F0DA71F7C519D42B9BFE998C982C63" import="1">Art/Biome Retexture/Visualy Distinctive Terrains - Arid Biome (v 2)/forest_alfa.dds</File>
+    <File md5="808212BC499F47A500B4E8059FE0F526" import="1">Art/Biome Retexture/Visualy Distinctive Terrains - Fungal Biome (v 1)/bravo_desert_d.dds</File>
+    <File md5="79A5CE1A6DCC78F1A031610081A437D4" import="1">Art/Biome Retexture/Visualy Distinctive Terrains - Fungal Biome (v 1)/bravo_grassland_d.dds</File>
+    <File md5="E200D0943D598C78AA73FED0100D9633" import="1">Art/Biome Retexture/Visualy Distinctive Terrains - Fungal Biome (v 1)/bravo_grassland_hills_d.dds</File>
+    <File md5="886349662653425CC744205B79B9292E" import="1">Art/Biome Retexture/Visualy Distinctive Terrains - Fungal Biome (v 1)/bravo_marsh_d.dds</File>
+    <File md5="EF9DC619C05C1B797F5738B59CAB0473" import="1">Art/Biome Retexture/Visualy Distinctive Terrains - Fungal Biome (v 1)/bravo_mountain_base_d.dds</File>
+    <File md5="2EA4E9C1BCC58671D836B6570E098B34" import="1">Art/Biome Retexture/Visualy Distinctive Terrains - Fungal Biome (v 1)/bravo_plain_d.dds</File>
+    <File md5="6BBC21A15661AE0D44D65A17DCCC8E86" import="1">Art/Biome Retexture/Visualy Distinctive Terrains - Fungal Biome (v 1)/bravo_plain_hills_d.dds</File>
+    <File md5="349E83216B87B0AE01DC5F3F6793751C" import="1">Art/Biome Retexture/Visualy Distinctive Terrains - Fungal Biome (v 1)/bravo_plain_hills_y_d.dds</File>
+    <File md5="29DE2550E00AB188173C833D34D49505" import="1">Art/Biome Retexture/Visualy Distinctive Terrains - Fungal Biome (v 1)/bravo_tundra_d.dds</File>
+    <File md5="D83850AC0F85CDB6233919967EDA1A82" import="1">Art/Biome Retexture/Visualy Distinctive Terrains - Fungal Biome (v 1)/forest_bravo.dds</File>
+    <File md5="88CEFF80CD0838F7006BE32DD1BB8523" import="1">Art/Biome Retexture/Visualy Distinctive Terrains - Fungal Biome (v 1)/grassland_bravo.dds</File>
     <File md5="660C6AF29786D9C472E4CAADC94D5B69" import="1">Art/NewAPIcon128.dds</File>
     <File md5="9DB74F594933D0EE86633EE06422B792" import="1">Art/NewAPIcon32.dds</File>
     <File md5="ED811C1399BD1626AD3BA5A2A0D6B587" import="1">Art/NewAPIcon45.dds</File>
