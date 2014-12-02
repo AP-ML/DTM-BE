@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/28/2014 10:01:14 PM -->
+  
+<GameData>
+	<Units>
+		<Update>
+			<Set Range="3"/>
+			<Where Type="UNIT_SIEGE"/>
+		</Update>
+		<Update>
+			<Set Range="3"/>
+			<Where Type="UNIT_LEV_DESTROYER"/>
+		</Update>
+		<Update>
+			<Set Range="4"/>
+			<Where Type="UNIT_SABR"/>
+		</Update>
+	</Units>
+	<UnitPerks>
+		<Update>
+			<Set RangeChange="1"/>
+			<Where Type="UNITPERK_NAVAL_FIGHTER_1"/>
+		</Update>
+	</UnitPerks>
+</GameData>

@@ -82,6 +82,11 @@
         <Type>UpdateDatabase</Type>
         <FileName>UI/UI Tweaks/Mod_Files/Text.sql</FileName>
       </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/SiegeRangePlus.xml</FileName>
+      </Action>
     </ModActions>
     <ModContent>
       <Content>
@@ -684,6 +689,10 @@
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="XML\InfoAddict\InfoAddictText_EN.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\SiegeRangePlus.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
