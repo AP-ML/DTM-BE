@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/25/2014 10:46:11 AM -->
+<GameData>
+	<Routes>
+		<Update>
+			<Row Name="ROUTE_ROAD">
+				<GoldMaintenance>0</GoldMaintenance>
+			</Row>
+			<Row Name="ROUTE_MAGRAIL">
+				<GoldMaintenance>0</GoldMaintenance>
+			</Row>
+		</Update>
+	</Routes>
+</GameData>

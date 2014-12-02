@@ -154,6 +154,7 @@
     <File md5="4701E4E905A8FF10B6B540F50496C595" import="1">XML/DTMLeader.xml</File>
     <File md5="433F905D4EB791820F580D85A317A984" import="1">XML/DTMText.xml</File>
     <File md5="376B271D5450EBB269999EEE72407CFD" import="1">XML/DTMTraits.xml</File>
+    <File md5="E879BE7733FC48DDE980E2699E0E50DB" import="0">XML/Free Routes.xml</File>
     <File md5="C4540E1C731D479559B86E9AB3E5D2AA" import="1">XML/InfoAddict/DiploTrade.xml</File>
     <File md5="459079DFFC20746E4C8AE35132D88678" import="1">XML/InfoAddict/DiscussionDialog.xml</File>
     <File md5="3A0311BAB793FA023ACEE5420B32390D" import="1">XML/InfoAddict/InfoAddictCivRelations.xml</File>
@@ -163,6 +164,7 @@
     <File md5="6FECCE6B76F7360FEDF3D914CAA6B6D2" import="1">XML/InfoAddict/InfoAddictScreen.xml</File>
     <File md5="133769294605D4C767B4A1FB7DEF4C35" import="1">XML/InfoAddict/InfoAddictText_EN.xml</File>
     <File md5="794A3E132DBC51CDF2A0895CE7AB72FA" import="0">XML/LAR_GlobalAIDefines.xml</File>
+    <File md5="4724482519142C7BD230E4227C474DD5" import="0">XML/Map Revealing Technology.xml</File>
     <File md5="71FF6D85D2F066EBBEC27DB98D51F359" import="1">XML/SiegeRangePlus.xml</File>
     <File md5="5D54C10C1CD39271738E7E79F37B0847" import="0">XML/UIInfoClock.xml</File>
   </Files>
@@ -182,6 +184,8 @@
       <UpdateDatabase>UI/UI Tweaks/Mod_Files/Text.sql</UpdateDatabase>
       <UpdateDatabase>XML/SiegeRangePlus.xml</UpdateDatabase>
       <UpdateDatabase>XML/LAR_GlobalAIDefines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Free Routes.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Map Revealing Technology.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
   <EntryPoints>

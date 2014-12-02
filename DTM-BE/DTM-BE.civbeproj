@@ -92,6 +92,16 @@
         <Type>UpdateDatabase</Type>
         <FileName>XML/LAR_GlobalAIDefines.xml</FileName>
       </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Free Routes.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Map Revealing Technology.xml</FileName>
+      </Action>
     </ModActions>
     <ModContent>
       <Content>
@@ -665,6 +675,10 @@
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
+    <Content Include="XML\Free Routes.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
     <Content Include="XML\InfoAddict\DiploTrade.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
@@ -698,6 +712,10 @@
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="XML\LAR_GlobalAIDefines.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Map Revealing Technology.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/9/2014 6:30:30 AM -->
+<GameData>
+	<Technologies>
+		<Update>
+			<Where Type="TECH_DARK_NETWORKS" />
+			<Set MapVisible="true" />
+		</Update>
+	</Technologies>
+</GameData>
