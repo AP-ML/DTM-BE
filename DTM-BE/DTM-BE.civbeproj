@@ -57,6 +57,11 @@
         <Type>UpdateDatabase</Type>
         <FileName>XML/UIInfoClock.xml</FileName>
       </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/InfoAddict/InfoAddictText_EN.xml</FileName>
+      </Action>
     </ModActions>
     <ModContent>
       <Content>
@@ -76,6 +81,12 @@
         <Name>Clock Info Bar Addin</Name>
         <Description />
         <FileName>UI/InfoClock_InfoBarHook.lua</FileName>
+      </Content>
+      <Content>
+        <Type>InGameUIAddin</Type>
+        <Name>Info Addict Init</Name>
+        <Description />
+        <FileName>UI/InfoAddict/InfoAddictInit.lua</FileName>
       </Content>
     </ModContent>
     <ModProperties />
@@ -224,6 +235,38 @@
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
+    <Content Include="Art\InfoAddict\infoaddicth.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\InfoAddict\infoaddictv.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\InfoAddict\notselectedpip.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\InfoAddict\notselectedpip60.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\InfoAddict\notselectedpip70.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\InfoAddict\selectedpip.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\InfoAddict\selectedpip60.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Art\InfoAddict\selectedpip70.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
     <Content Include="Art\NewAPIcon128.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
@@ -368,6 +411,50 @@
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
+    <Content Include="UI\InfoAddict\DiploTrade.lua">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="UI\InfoAddict\DiscussionDialog.lua">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="UI\InfoAddict\InfoAddictCivRelations.lua">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="UI\InfoAddict\InfoAddictDataManager.lua">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="UI\InfoAddict\InfoAddictFactBook.lua">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="UI\InfoAddict\InfoAddictHistoricalData.lua">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="UI\InfoAddict\InfoAddictInit.lua">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="UI\InfoAddict\InfoAddictLib.lua">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="UI\InfoAddict\InfoAddictLogger.lua">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="UI\InfoAddict\InfoAddictOptions.lua">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="UI\InfoAddict\InfoAddictScreen.lua">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
     <Content Include="UI\InfoClock.lua">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
@@ -416,6 +503,38 @@
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
+    <Content Include="XML\InfoAddict\DiploTrade.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\InfoAddict\DiscussionDialog.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\InfoAddict\InfoAddictCivRelations.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\InfoAddict\InfoAddictFactBook.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\InfoAddict\InfoAddictHistoricalData.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\InfoAddict\InfoAddictOptions.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\InfoAddict\InfoAddictScreen.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\InfoAddict\InfoAddictText_EN.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
     <Content Include="XML\UIInfoClock.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
@@ -428,10 +547,13 @@
     <Folder Include="Art\Biome Retexture\Visualy Distinctive Terrains - Fungal Biome %28v 1%29\" />
     <Folder Include="Art\IconAtlas" />
     <Folder Include="Art\Biome Retexture" />
+    <Folder Include="Art\InfoAddict" />
+    <Folder Include="UI\InfoAddict\" />
     <Folder Include="XML" />
     <Folder Include="UI" />
     <Folder Include="UI\InGame" />
     <Folder Include="UI\InGame\TechTree" />
+    <Folder Include="XML\InfoAddict" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Firaxis\ModBuddy\CivBEMod.targets" />
 </Project>

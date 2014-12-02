@@ -54,6 +54,14 @@
     <File md5="29DE2550E00AB188173C833D34D49505" import="1">Art/Biome Retexture/Visualy Distinctive Terrains - Fungal Biome (v 1)/bravo_tundra_d.dds</File>
     <File md5="D83850AC0F85CDB6233919967EDA1A82" import="1">Art/Biome Retexture/Visualy Distinctive Terrains - Fungal Biome (v 1)/forest_bravo.dds</File>
     <File md5="88CEFF80CD0838F7006BE32DD1BB8523" import="1">Art/Biome Retexture/Visualy Distinctive Terrains - Fungal Biome (v 1)/grassland_bravo.dds</File>
+    <File md5="76FB22538641E8233E2D022C2C9C40B3" import="1">Art/InfoAddict/infoaddicth.dds</File>
+    <File md5="54749C2E542A9DD8C39CCBFE3A8EB832" import="1">Art/InfoAddict/infoaddictv.dds</File>
+    <File md5="F580F9EE6EBF47713116041AC2AD1D19" import="1">Art/InfoAddict/notselectedpip.dds</File>
+    <File md5="32D8A775385DDADB644703A0C71AC6EA" import="1">Art/InfoAddict/notselectedpip60.dds</File>
+    <File md5="387D090035142861E49DF38B81379EEA" import="1">Art/InfoAddict/notselectedpip70.dds</File>
+    <File md5="7E7387C93AF8771F91A5DE80550246EF" import="1">Art/InfoAddict/selectedpip.dds</File>
+    <File md5="2C6F6BED6FF41756B3F84762E1FF80BA" import="1">Art/InfoAddict/selectedpip60.dds</File>
+    <File md5="45A58E074B30BF151319E21B8605E1AE" import="1">Art/InfoAddict/selectedpip70.dds</File>
     <File md5="660C6AF29786D9C472E4CAADC94D5B69" import="1">Art/NewAPIcon128.dds</File>
     <File md5="9DB74F594933D0EE86633EE06422B792" import="1">Art/NewAPIcon32.dds</File>
     <File md5="ED811C1399BD1626AD3BA5A2A0D6B587" import="1">Art/NewAPIcon45.dds</File>
@@ -90,6 +98,17 @@
     <File md5="B21F343A6B30E305CD09FFE6FD4FF861" import="1">Art/IconAtlas/colorweb_wonderatlas360.dds</File>
     <File md5="E13886C68703C393733DBAD7CCC59567" import="1">Art/INTRO1.dds</File>
     <File md5="E82A04FC9FC9DFA991E4B9D916BC28AC" import="1">Art/trans.bmp</File>
+    <File md5="69BFAA6F55902CCC9BAEDA5003C465DE" import="1">UI/InfoAddict/DiploTrade.lua</File>
+    <File md5="783F7D0F81DFE593B3484BDCCD1AD0BF" import="1">UI/InfoAddict/DiscussionDialog.lua</File>
+    <File md5="E201F0860EF0867C0268285F5B30AB82" import="1">UI/InfoAddict/InfoAddictCivRelations.lua</File>
+    <File md5="781628AAF30A2A50ECDA3DAB413C8C23" import="1">UI/InfoAddict/InfoAddictDataManager.lua</File>
+    <File md5="F9CC3703A2CB6A10A0DBCCCA93D5C7FD" import="1">UI/InfoAddict/InfoAddictFactBook.lua</File>
+    <File md5="C03A2CC59EC5C145D0DF0A16C4B9C9D2" import="1">UI/InfoAddict/InfoAddictHistoricalData.lua</File>
+    <File md5="2EEE1C0434F82BFE5FAFA51FE7390C9A" import="1">UI/InfoAddict/InfoAddictInit.lua</File>
+    <File md5="47E391ECCD0EB9C6842827790BE0B146" import="1">UI/InfoAddict/InfoAddictLib.lua</File>
+    <File md5="AB5943FCDD150B84E70D19E706BBB48A" import="1">UI/InfoAddict/InfoAddictLogger.lua</File>
+    <File md5="B6825562C36E27481D9BFFD8ED7B9157" import="1">UI/InfoAddict/InfoAddictOptions.lua</File>
+    <File md5="DC4FFFDEB9551A8ACE953E720FCFA616" import="1">UI/InfoAddict/InfoAddictScreen.lua</File>
     <File md5="BDFF21491AD4B382A3F3FB97E9799485" import="0">UI/InfoClock.lua</File>
     <File md5="E070164CC6B39676EA26D7C9A8404327" import="0">UI/InfoClock.xml</File>
     <File md5="FFE7506F217DE81985E48F2AB2A17B4E" import="1">UI/InfoClock_InfoBarHook.lua</File>
@@ -102,6 +121,14 @@
     <File md5="4701E4E905A8FF10B6B540F50496C595" import="1">XML/DTMLeader.xml</File>
     <File md5="433F905D4EB791820F580D85A317A984" import="1">XML/DTMText.xml</File>
     <File md5="376B271D5450EBB269999EEE72407CFD" import="1">XML/DTMTraits.xml</File>
+    <File md5="C4540E1C731D479559B86E9AB3E5D2AA" import="1">XML/InfoAddict/DiploTrade.xml</File>
+    <File md5="459079DFFC20746E4C8AE35132D88678" import="1">XML/InfoAddict/DiscussionDialog.xml</File>
+    <File md5="3A0311BAB793FA023ACEE5420B32390D" import="1">XML/InfoAddict/InfoAddictCivRelations.xml</File>
+    <File md5="C9C1AB3DA89D135410236C49C09C0EF0" import="1">XML/InfoAddict/InfoAddictFactBook.xml</File>
+    <File md5="6ADABDBCC9D65B2CF97544B796BF6506" import="1">XML/InfoAddict/InfoAddictHistoricalData.xml</File>
+    <File md5="324CF6E1C4866A0C7CFA20EE4D606664" import="1">XML/InfoAddict/InfoAddictOptions.xml</File>
+    <File md5="6FECCE6B76F7360FEDF3D914CAA6B6D2" import="1">XML/InfoAddict/InfoAddictScreen.xml</File>
+    <File md5="133769294605D4C767B4A1FB7DEF4C35" import="1">XML/InfoAddict/InfoAddictText_EN.xml</File>
     <File md5="5D54C10C1CD39271738E7E79F37B0847" import="0">XML/UIInfoClock.xml</File>
   </Files>
   <Actions>
@@ -113,6 +140,7 @@
       <UpdateDatabase>XML/DTMText.xml</UpdateDatabase>
       <UpdateDatabase>XML/DTMTraits.xml</UpdateDatabase>
       <UpdateDatabase>XML/UIInfoClock.xml</UpdateDatabase>
+      <UpdateDatabase>XML/InfoAddict/InfoAddictText_EN.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
   <EntryPoints>
@@ -128,6 +156,11 @@
     </EntryPoint>
     <EntryPoint type="InfoBarAddin" file="UI/InfoClock_InfoBarHook.lua">
       <Name>Clock Info Bar Addin</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="UI/InfoAddict/InfoAddictInit.lua">
+      <Name>Info Addict Init</Name>
       <Description>
       </Description>
     </EntryPoint>
