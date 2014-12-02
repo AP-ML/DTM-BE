@@ -21,13 +21,13 @@
   <References />
   <Blocks />
   <Files>
-    <File md5="44848B182475DFBA0228D514AAEA91A9" import="1">Art/APAlphaIcon128.dds</File>
-    <File md5="D791B8D6B3249D9CBE499A60CA5AE54A" import="1">Art/APAlphaIcon16.dds</File>
-    <File md5="F9706B01DF49E81F399B34F486C76E3B" import="1">Art/APAlphaIcon24.dds</File>
-    <File md5="B71FB07E35F2FCB334300E629AEB7E0B" import="1">Art/APAlphaIcon32.dds</File>
-    <File md5="985F3A6284BB0F0A4AA5A0E0DF9A3F49" import="1">Art/APAlphaIcon45.dds</File>
-    <File md5="755C7DC32F5B6A29269590E094409E6A" import="1">Art/APAlphaIcon57.dds</File>
-    <File md5="940B1446CF6CF9F53EA9B1DD632D7144" import="1">Art/APAlphaIcon64.dds</File>
+    <File md5="44848B182475DFBA0228D514AAEA91A9" import="1">Art/APAlphaIcon128.ddsbak</File>
+    <File md5="D791B8D6B3249D9CBE499A60CA5AE54A" import="1">Art/APAlphaIcon16.ddsbak</File>
+    <File md5="F9706B01DF49E81F399B34F486C76E3B" import="1">Art/APAlphaIcon24.ddsbak</File>
+    <File md5="B71FB07E35F2FCB334300E629AEB7E0B" import="1">Art/APAlphaIcon32.ddsbak</File>
+    <File md5="985F3A6284BB0F0A4AA5A0E0DF9A3F49" import="1">Art/APAlphaIcon45.ddsbak</File>
+    <File md5="755C7DC32F5B6A29269590E094409E6A" import="1">Art/APAlphaIcon57.ddsbak</File>
+    <File md5="940B1446CF6CF9F53EA9B1DD632D7144" import="1">Art/APAlphaIcon64.ddsbak</File>
     <File md5="660C6AF29786D9C472E4CAADC94D5B69" import="1">Art/NewAPIcon128.dds</File>
     <File md5="9DB74F594933D0EE86633EE06422B792" import="1">Art/NewAPIcon32.dds</File>
     <File md5="ED811C1399BD1626AD3BA5A2A0D6B587" import="1">Art/NewAPIcon45.dds</File>
@@ -37,13 +37,13 @@
     <File md5="34D392898306C0792125E87E3F65A9D2" import="1">Art/NewAPIcon80.dds</File>
     <File md5="86A307AA361128CF0B2E967BF3F58700" import="1">Art/APLeader128.dds</File>
     <File md5="DFA8AD0AAA670195FEDF77871D76B58F" import="1">Art/APLeader64.dds</File>
-    <File md5="865E8AFDE008109943902519E9D17641" import="1">Art/BakAPAlphaIcon128.dds</File>
-    <File md5="D29B59AA247056CF65241EC11937ED13" import="1">Art/BakAPAlphaIcon16.dds</File>
-    <File md5="E43B046CB2370D0CA6B9CC0ED7757505" import="1">Art/BakAPAlphaIcon24.dds</File>
-    <File md5="EB87408F15E47FA7DDDE5DCEFD3C23CC" import="1">Art/BakAPAlphaIcon32.dds</File>
-    <File md5="E40431F0BF304E530C280E0B0C4BB112" import="1">Art/BakAPAlphaIcon45.dds</File>
-    <File md5="EC27E4C6BBE267F334CAB5A03F6E7EDB" import="1">Art/BakAPAlphaIcon57.dds</File>
-    <File md5="4DBC46E0C5ABBA15B1DC17D8A0B58A86" import="1">Art/BakAPAlphaIcon64.dds</File>
+    <File md5="865E8AFDE008109943902519E9D17641" import="1">Art/APAlphaIcon128.dds</File>
+    <File md5="D29B59AA247056CF65241EC11937ED13" import="1">Art/APAlphaIcon16.dds</File>
+    <File md5="E43B046CB2370D0CA6B9CC0ED7757505" import="1">Art/APAlphaIcon24.dds</File>
+    <File md5="EB87408F15E47FA7DDDE5DCEFD3C23CC" import="1">Art/APAlphaIcon32.dds</File>
+    <File md5="E40431F0BF304E530C280E0B0C4BB112" import="1">Art/APAlphaIcon45.dds</File>
+    <File md5="EC27E4C6BBE267F334CAB5A03F6E7EDB" import="1">Art/APAlphaIcon57.dds</File>
+    <File md5="4DBC46E0C5ABBA15B1DC17D8A0B58A86" import="1">Art/APAlphaIcon64.dds</File>
     <File md5="1CE99C90829B22BC31994D7F9D0415E0" import="1">Art/APIcon128.dds</File>
     <File md5="31D5B03A2E57F173A9F5F50A0A1E470A" import="1">Art/APIcon128.pdn</File>
     <File md5="865E8AFDE008109943902519E9D17641" import="1">Art/BakAPIcon1281.dds</File>

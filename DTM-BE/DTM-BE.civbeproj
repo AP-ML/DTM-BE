@@ -66,31 +66,31 @@
     <DeployMod>true</DeployMod>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="Art\APAlphaIcon128.dds">
+    <Content Include="Art\APAlphaIcon128.ddsbak">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="Art\APAlphaIcon16.dds">
+    <Content Include="Art\APAlphaIcon16.ddsbak">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="Art\APAlphaIcon24.dds">
+    <Content Include="Art\APAlphaIcon24.ddsbak">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="Art\APAlphaIcon32.dds">
+    <Content Include="Art\APAlphaIcon32.ddsbak">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="Art\APAlphaIcon45.dds">
+    <Content Include="Art\APAlphaIcon45.ddsbak">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="Art\APAlphaIcon57.dds">
+    <Content Include="Art\APAlphaIcon57.ddsbak">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="Art\APAlphaIcon64.dds">
+    <Content Include="Art\APAlphaIcon64.ddsbak">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
@@ -130,31 +130,31 @@
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="Art\BakAPAlphaIcon128.dds">
+    <Content Include="Art\APAlphaIcon128.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="Art\BakAPAlphaIcon16.dds">
+    <Content Include="Art\APAlphaIcon16.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="Art\BakAPAlphaIcon24.dds">
+    <Content Include="Art\APAlphaIcon24.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="Art\BakAPAlphaIcon32.dds">
+    <Content Include="Art\APAlphaIcon32.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="Art\BakAPAlphaIcon45.dds">
+    <Content Include="Art\APAlphaIcon45.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="Art\BakAPAlphaIcon57.dds">
+    <Content Include="Art\APAlphaIcon57.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="Art\BakAPAlphaIcon64.dds">
+    <Content Include="Art\APAlphaIcon64.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
